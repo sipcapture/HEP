@@ -8,7 +8,7 @@ The Extensible Encapsulation protocol (“EEP”) provides a method to duplicate
 chunks) within a new IP datagram transmitted over UDP/TCP/SCTP connections for remote collection. Encapsulation allows for the original content to be transmitted without altering the original IP datagram and header contents and provides flexible allocation of additional chunks containing additional arbitrary data.
 
 ### History:
-The protocol was originally designed by Alexandr Dubovikov for the [HOMER](http://github.com/sipcapture/homer) [SIPCAPTURE](http://github.com/sipcapture) project and is currently at its third generation (HEP3) and implemented in many leading SIP platforms.
+The protocol was originally designed by Alexandr Dubovikov for the [HOMER](http://github.com/sipcapture/homer) [SIPCAPTURE](http://github.com/sipcapture) project and is currently at its third generation (HEP3) and implemented in many leading SIP platforms _(Kamailio, OpenSIPS, FreeSWTICH, Asterisk and more)_ and integrated by several capture tools.
 
 ###Support
 For any inquiry related to HEP/EEP please contact [support@sipcapture.org](mailto:support@sipcapture.org)
