@@ -19,6 +19,7 @@ HEP is natively implemented in many leading SIP platforms:
 * [OpenSIPS](https://github.com/sipcapture/homer/wiki/Examples%3A-OpenSIPS)
 * [FreeSWTICH](https://github.com/sipcapture/homer/wiki/Examples%3A-FreeSwitch)
 * [Asterisk](https://reviewboard.asterisk.org/r/3207/) 
+* [RTP:Engine](https://github.com/sipwise/rtpengine) 
 *  ... and more!
 
 HEP is also supported by several capture tools:
@@ -34,6 +35,9 @@ HEP code examples are available for many languages:
 * [Java](https://github.com/sipcapture/hep-java)
 * [C/C++](https://github.com/sipcapture/hep-c)
 * [Erlang](https://github.com/sipcapture/hep-erlang)
+* [Go](https://github.com/sipcapture/hep-go)
+* [Perl](https://github.com/sipcapture/hep-perl)
+
 
 
 ###Support
