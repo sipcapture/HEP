@@ -6,7 +6,7 @@
 
 This repository serves technical documentation for the _EEP_ *(formely HEP)* Encapsulation Protocol.
 
-###Summary:
+### Summary:
 The Extensible Encapsulation protocol _(“EEP”)_ provides a method to duplicate an IP datagram to a collector by encapsulating the original datagram and its relative header properties _(as payload, in form of concatenated
 chunks)_ within a new IP datagram transmitted over UDP/TCP/SCTP connections for remote collection. Encapsulation allows for the original content to be transmitted without altering the original IP datagram and header contents and provides flexible allocation of additional chunks containing additional arbitrary data. The method is NOT designed
 or intended for “tunneling” of IP datagrams over network segments, and best serves as vector for passive duplication of packets intended for remote or centralized collection and long term storage and analysis.
@@ -42,6 +42,6 @@ HEP code examples are available for many languages:
 
 
 
-###Support
+### Support
 For any inquiry related to HEP/EEP please contact [support@sipcapture.org](mailto:support@sipcapture.org)
 
