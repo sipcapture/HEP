@@ -18,7 +18,7 @@ The protocol was originally designed by Alexandr Dubovikov and Roland Hänel for
 HEP is natively implemented in many leading SIP platforms:
 * [Kamailio](https://github.com/sipcapture/homer/wiki/Examples%3A-Kamailio) 
 * [OpenSIPS](https://github.com/sipcapture/homer/wiki/Examples%3A-OpenSIPS)
-* [FreeSWTICH](https://github.com/sipcapture/homer/wiki/Examples%3A-FreeSwitch)
+* [FreeSWITCH](https://github.com/sipcapture/homer/wiki/Examples%3A-FreeSwitch)
 * [Asterisk](https://reviewboard.asterisk.org/r/3207/) 
 * [RTP:Engine](https://github.com/sipwise/rtpengine) 
 *  ... and more!
