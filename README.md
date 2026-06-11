@@ -25,6 +25,7 @@ HEP is natively implemented in many leading SIP platforms:
 
 HEP is also supported by several capture tools:
 * [Captagent](http://github.com/sipcapture/captagent)
+* [Heplify](https://github.com/sipcapture/heplify)
 * [Sipgrep](http://github.com/sipcapture/sipgrep)
 * [HEPipe](http://github.com/sipcapture/hepipe)
 * [nProbe](http://www.ntop.org/products/netflow/nprobe/)
